@@ -1,0 +1,44 @@
+[
+    {
+      "weekday": "monday",
+      "exercise": [
+        "x75 push-ups", "x75 sit-ups", "x75 pull-ups"
+      ]
+    },
+    {
+      "weekday": "tuesday",
+      "exercise": [
+        "x75 sit-ups", "x75 pull-ups", "x75 push-ups"
+      ]
+    },
+    {
+      "weekday": "wednesday",
+      "exercise": [
+        "x75 push-ups", "x75 sit-ups", "x75 pull-ups"
+      ]
+    },
+    {
+      "weekday": "thursday",
+      "exercise": [
+        "x75 push-ups", "x75 sit-ups", "x75 pull-ups"
+      ]
+    },
+    {
+      "weekday": "friday",
+      "exercise": [
+        "x75 push-ups", "x75 sit-ups", "x75 pull-ups"
+      ]
+    },
+    {
+      "weekday": "saturday",
+      "exercise": [
+        "1 mile run", "3 minute Jump Rope", "5 minute stretch"
+      ]
+    },
+    {
+      "weekday": "sunday",
+      "exercise": [
+        "0.5 mile run", "x50 sit-ups", "x25 pull-up"
+      ]
+    }
+  ]

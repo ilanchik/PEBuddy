@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/home"/>
+    <item android:title="Workout"
+        android:icon="@drawable/ic_baseline_view_week_24"
+        android:id="@+id/workoutWeek"/>
+    <item android:title="Results"
+        android:icon="@drawable/ic_baseline_check_24"
+        android:id="@+id/results"/>
+</menu>
